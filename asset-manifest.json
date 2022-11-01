@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/mockwebsite/static/css/main.eceb5f25.css",
+    "main.js": "/mockwebsite/static/js/main.ea4cc613.js",
+    "static/media/profile.jpg": "/mockwebsite/static/media/profile.83d021881705252b6109.jpg",
+    "static/media/IMG_3943.jpg": "/mockwebsite/static/media/IMG_3943.68bbe1ce38f650bf9976.jpg",
+    "static/media/IMG_3934.jpg": "/mockwebsite/static/media/IMG_3934.4b55154a5ee39de6d335.jpg",
+    "static/media/IMG_3942.jpg": "/mockwebsite/static/media/IMG_3942.9b5761bb050524441a1c.jpg",
+    "static/media/baby.jpg": "/mockwebsite/static/media/baby.29c4edbc9ee7b8b62a26.jpg",
+    "static/media/IMG_3939.jpg": "/mockwebsite/static/media/IMG_3939.2c41b0e44f91457af690.jpg",
+    "static/media/IMG_3927.jpg": "/mockwebsite/static/media/IMG_3927.beb70d318f75581bfa12.jpg",
+    "static/media/baby.webp": "/mockwebsite/static/media/baby.014c27d4df08bf6e65c3.webp",
+    "static/media/logo.png": "/mockwebsite/static/media/logo.46758659b11866159398.png",
+    "static/media/baby-hat.png": "/mockwebsite/static/media/baby-hat.9dc88f1354ae04d3685b.png",
+    "static/media/baby-bib.png": "/mockwebsite/static/media/baby-bib.8427bf7a6bc7170a1e53.png",
+    "static/media/baby-body.png": "/mockwebsite/static/media/baby-body.dc1bfd5b9e934b133fe3.png",
+    "static/media/onesie.png": "/mockwebsite/static/media/onesie.efc00223b5ec8d98aaf7.png",
+    "static/media/baby-socks.png": "/mockwebsite/static/media/baby-socks.51708b4113e584084a92.png",
+    "static/media/sneakers.png": "/mockwebsite/static/media/sneakers.23713d0d89d2648e4944.png",
+    "static/media/spider-cursor.svg": "/mockwebsite/static/media/spider-cursor.5d9d33df533f84215e01.svg",
+    "index.html": "/mockwebsite/index.html",
+    "main.eceb5f25.css.map": "/mockwebsite/static/css/main.eceb5f25.css.map",
+    "main.ea4cc613.js.map": "/mockwebsite/static/js/main.ea4cc613.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eceb5f25.css",
+    "static/js/main.ea4cc613.js"
+  ]
+}
